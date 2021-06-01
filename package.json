@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsc -w",
-    "start": " tsc && node .",
+    "start": " tsc && node lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
