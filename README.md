@@ -1,6 +1,6 @@
 Simple blockchain App
 
-    Four modules 
+    This are the additional tasks to be updated 
         TRANSACTION MODULE 
                 - Transactions update
                 - Date of transactions
@@ -18,7 +18,7 @@ Simple blockchain App
         BLOCK MODULE
                 -  Timing in better format
                 -  last transaction amount
-       CHAIN MODULE
+        CHAIN MODULE
 
 
 
